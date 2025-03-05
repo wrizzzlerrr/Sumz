@@ -1,8 +1,28 @@
-# React + Vite
+# 📚 SumZ – AI Summarization Tool
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+An AI-powered summarization tool using **React.js**, **OpenAI API**, and **Redux Toolkit** for real-time content processing.
 
-Currently, two official plugins are available:
+## Features
+- **OpenAI API** for accurate summarization
+- **Redux Toolkit** for efficient state management
+- **Tailwind CSS** for a modern interface
+- **Real-time processing** for fast results
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+```bash
+git clone https://github.com/yourusername/sumz-summarizer.git
+cd sumz-summarizer
+npm install
+```
+🔑 **Set OpenAI API Key** in `.env`:
+```bash
+REACT_APP_OPENAI_API_KEY=your_api_key_here
+```
+```bash
+npm start
+```
+🔗 [http://localhost:3000](http://localhost:3000)
+
+## Live Demo
+[🔗 https://sumz-openai-summerizer.netlify.app/](#)

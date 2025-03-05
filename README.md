@@ -25,4 +25,4 @@ npm start
 🔗 [http://localhost:3000](http://localhost:3000)
 
 ## Live Demo
-[🔗 https://sumz-openai-summerizer.netlify.app/](#)
+🔗 [https://sumz-openai-summerizer.netlify.app/](https://sumz-openai-summerizer.netlify.app/)
